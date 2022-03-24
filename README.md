@@ -7,7 +7,7 @@
 <img src="https://telegra.ph/file/fac49608eb86a69f85745.jpg">
 
 <p align="center">
-  <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
+  <a href="https://github.com/Zezan-Userbot/ZezanX-userbot/fork">
     <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
     
   </a>
@@ -31,8 +31,8 @@
 ## Credit
 TERIMAKASIH UNTUK
 
-*   [VICKY](https://t.me/vckyaz) - ⚡Geez-Userbot⚡
+*   [VICKY](https://t.me/vckyaz) - ⚡ZezanX-Userbot⚡
 *   [KOALA](https://t.me/manusiarakitann) - KAMPANG BOT
 *   [TEAMULTROID](https://github.com/TeamUltroid) - ULTROID
-*   [RAMA](https://t.me/merdhni) - ⭐RAM - UBOT⭐
+*   [RAMA](https://t.me/merdhni) - ⭐ZezanX-Userbot⭐
 *    DAN MASIH BANYAK LAGI TOT
